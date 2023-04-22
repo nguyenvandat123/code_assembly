@@ -1,4 +1,4 @@
-1. Bài tập tính tính của hai số nguyên dương không quá 10
+** Bài tập tính tính của hai số nguyên dương không quá 10**
 ```sh
 section .data
    print_1 db "first number: ",0
